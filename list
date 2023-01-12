@@ -1,32 +1,34 @@
-[
+{
+    "games":[
     {
-    "id": 1,
-    "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7093897?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/ufopy">Play UFOpy on itch.io</a></iframe>",
-    "title" : "UFO (with AI arts)",
-    "description" : "Tap the screen to fly the UFO and avoid buildings!",
+        "id": 1 
+        "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7093897?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/ufopy">Play UFOpy on itch.io</a></iframe>",
+        "title" : "UFO (with AI arts)",
+        "description" : "Tap the screen to fly the UFO and avoid buildings!",
     },
     {
-    "id" : 2,
-    "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7093956?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/capuzzle">Play Capuzzle on itch.io</a></iframe>",
-    "title" : "Capuzzle (with AI arts)",
-    "description" : "It's a simple sliding game with a capybara.",
+        "id" : 2,
+        "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7093956?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/capuzzle">Play Capuzzle on itch.io</a></iframe>",
+        "title" : "Capuzzle (with AI arts)",
+        "description" : "It's a simple sliding game with a capybara.",
     },
     {
-    "id" : 3,
-    "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7112772?color=333333" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/midjumper">Play MidJumper on itch.io</a></iframe>",
-    "title" : "Medieval jumper",
-    "description" : "Dino TRex from no wifi game in browser but with medieval setting",
+        "id" : 3,
+        "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7112772?color=333333" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/midjumper">Play MidJumper on itch.io</a></iframe>",
+        "title" : "Medieval jumper",
+        "description" : "Dino TRex from no wifi game in browser but with medieval setting",
     }
     {
-    "id" : 4,
-    "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7111711?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/cargoscraper">Play Cargoscraper on itch.io</a></iframe>",
-    "title" : "Cargoscraper (with AI arts)",
-    "description" : "Taps to raise the highest of container tower in this amazing building simulator.",
+        "id" : 4,
+        "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7111711?color=000000" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/cargoscraper">Play Cargoscraper on itch.io</a></iframe>",
+        "title" : "Cargoscraper (with AI arts)",
+        "description" : "Taps to raise the highest of container tower in this amazing building simulator.",
     }
     {
-    "id" : 5,
-    "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7130277?color=333333" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/badwell">Play BadWell on itch.io</a></iframe>",
-    "title" : "BadWell",
-    "description" : "It's a thrilling surreal game in which you explore the depths of the well.",
+        "id" : 5,
+        "link": "<iframe frameborder="0" src="https://itch.io/embed-upload/7130277?color=333333" allowfullscreen="" width="500" height="550"><a href="https://gulbrandr-igd.itch.io/badwell">Play BadWell on itch.io</a></iframe>",
+        "title" : "BadWell",
+        "description" : "It's a thrilling surreal game in which you explore the depths of the well.",
     }
-]
+    ]
+}
