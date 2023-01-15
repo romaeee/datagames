@@ -40,8 +40,13 @@
 			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7165427?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/dwarf-wanted\">Play Dwarf Wanted on itch.io</a></iframe>",
 			"title": "Dwarf Wanted (with AI arts)",
 			"description": "Did you see this dwarf?"
+		},
+		{
+			"id": 8,
+			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7167014?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/sudoku\">Play Sudoku on itch.io</a></iframe>",
+			"title": "Sudoku (with AI arts)",
+			"description": "Classic sudoku"
 		}
-		
 		
 		
 	]
