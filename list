@@ -61,7 +61,7 @@
 		},
 		{
 			"id": 11,
-			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7261393?color=511A00\" allowfullscreen=\"\" width=\"500\" height=\"550\" frameborder=\"0\"><a href=\"https://mischief-and-mayhem-games.itch.io/cavern-boom\">Play Cavern Boom on itch.io</a></iframe>",
+			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7261393?color=511A00\" allowfullscreen=\"\" width=\"600\" height=\"700\" frameborder=\"0\"><a href=\"https://mischief-and-mayhem-games.itch.io/cavern-boom\">Play Cavern Boom on itch.io</a></iframe>",
 			"title": "Cavern Boom",
 			"description": "Turn based Bullet-Hell"
 		}
