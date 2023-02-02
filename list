@@ -49,7 +49,7 @@
 		},
 		{
 			"id": 9,
-			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7266766?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"720\"><a href=\"https://gulbrandr-igd.itch.io/thaicards\">Play ThaiCards on itch.io</a></iframe>",
+			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7266766?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/thaicards\">Play ThaiCards on itch.io</a></iframe>",
 			"title": "Thai Cards",
 			"description": "Learn thai phrases"
 		},
@@ -61,7 +61,7 @@
 		},
 		{
 			"id": 11,
-			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7265212?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://mischief-and-mayhem-games.itch.io/cavern-boom\">Play Cavern Boom on itch.io</a></iframe>",
+			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7265212?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"720\"><a href=\"https://mischief-and-mayhem-games.itch.io/cavern-boom\">Play Cavern Boom on itch.io</a></iframe>",
 			"title": "Cavern Boom",
 			"description": "Turn based Bullet-Hell"
 		}
