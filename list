@@ -1,7 +1,7 @@
 {
 	"games": [{
 			"id": 1,
-			"link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7093897?color=000000\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/ufopy\">Play UFOpy on itch.io</a></iframe>",
+			"link": "<iframe src=\"https://romaeee.github.io/ufopy/\" width=\"500\" height=\"550\"></iframe>",
 			"title": "UFO (with AI arts)",
 			"description": "Tap the screen to fly the UFO and avoid buildings!"
 		},
