@@ -72,23 +72,5 @@
             "title": "Garbage Run - A chute 'em up",
             "description": "Survive on one thruster in a space bin!"
         },
-        {
-            "id": 13,
-            "link": "Test",
-            "title": "New Game",
-            "description": "This is a description of the new game."
-        },
-        {
-            "id": 13,
-            "link": "Test",
-            "title": "New Game",
-            "description": "This is a description of the new game."
-        },
-        {
-            "id": 15,
-            "link": "15",
-            "title": "15",
-            "description": "15"
-        }
     ]
 }
