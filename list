@@ -71,30 +71,6 @@
             "link": "<iframe src=\"https://itch.io/embed-upload/7232969\" width=\"500\" height=\"550\"></iframe>",
             "title": "Garbage Run - A chute 'em up",
             "description": "Survive on one thruster in a space bin!"
-        },
-        {
-            "id": 12,
-            "link": "",
-            "title": "JaJ",
-            "description": "Test"
-        },
-        {
-            "id": 14,
-            "link": "",
-            "title": "JUJU",
-            "description": "test game"
-        },
-        {
-            "id": 15,
-            "link": "<iframe frameborder=\\\"0\\\" src=\\\"https://itch.io/embed-upload/6447923?color=7693b3\\\" allowfullscreen=\\\"\\\" width=\\\"640\\\" height=\\\"380\\\"><a href=\\\"https://romaeee.itch.io/june-and-july\\\">Play June and July on itch.io</a></iframe>",
-            "title": "test 3",
-            "description": "sdgsdgg"
-        },
-        {
-            "id": 16,
-            "link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/6447923?color=7693b3\" allowfullscreen=\"\" width=\"640\" height=\"380\"><a href=\"https://romaeee.itch.io/june-and-july\">Play June and July on itch.io</a></iframe>",
-            "title": "test new ",
-            "description": "dfsdfdfsdfdsfsdf"
         }
     ]
 }
