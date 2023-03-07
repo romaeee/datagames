@@ -8,7 +8,7 @@
         },
         {
             "id": 2,
-            "link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7093956?color=000000\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/capuzzle\">Play Capuzzle on itch.io</a></iframe>",
+            "link": "<iframe src=\"https://romaeee.github.io/Cupazzle/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Capuzzle (with AI arts)",
             "description": "It's a simple sliding game with a capybara."
         },
