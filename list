@@ -71,6 +71,12 @@
             "link": "<iframe src=\"https://itch.io/embed-upload/7232969\" width=\"500\" height=\"550\"></iframe>",
             "title": "Garbage Run - A chute 'em up",
             "description": "Survive on one thruster in a space bin!"
+        },
+        {
+            "id": 13,
+            "link": "https://romaeee.github.io/DiceD6/",
+            "title": "Dice D6",
+            "description": "Simple guessing game to challenge your luck."
         }
     ]
 }
