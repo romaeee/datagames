@@ -77,6 +77,12 @@
             "link": "<iframe src=\"https://romaeee.github.io/DiceD6/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Dice D6",
             "description": "Simple guessing game to challenge your luck."
+        },
+        {
+            "id": 14,
+            "link": "<iframe src=\\\"https://romaeee.github.io/UPUPUP/\\\" width=\\\"500\\\" height=\\\"550\\\"></iframe>",
+            "title": "UP!UP!UP!",
+            "description": "Don't look down!"
         }
     ]
 }
