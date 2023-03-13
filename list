@@ -86,7 +86,7 @@
         },
         {
             "id": 15,
-            "link": "<iframe src=\\\"https://romaeee.github.io/wordus/\\\" width=\\\"500\\\" height=\\\"550\\\"></iframe>",
+            "link": "<iframe src=\"https://romaeee.github.io/wordus/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Wordus by GGS",
             "description": "Like Wordle but Wordus"
         }
