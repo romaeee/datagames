@@ -86,7 +86,7 @@
         },
         {
             "id": 15,
-            "link": "<iframe src=\\\"https://romaeee.github.io/snake/\\\" width=\\\"500\\\" height=\\\"550\\\"></iframe>",
+            "link": "<iframe src=\"https://romaeee.github.io/snake/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Snake by Gulbrandr Game Studios.",
             "description": "Non-classic snake game"
         }
