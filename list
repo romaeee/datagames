@@ -89,6 +89,12 @@
             "link": "<iframe src=\"https://romaeee.github.io/snake/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Snake by Gulbrandr Game Studios.",
             "description": "Non-classic snake game"
+        },
+        {
+            "id": 16,
+            "link": "<iframe src=\\\"https://romaeee.github.io/xtensions/\\\" width=\\\"500\\\" height=\\\"550\\\"></iframe>",
+            "title": "Xtinction",
+            "description": "Save the planet from asteroids and humans"
         }
     ]
 }
