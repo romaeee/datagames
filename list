@@ -95,6 +95,12 @@
             "link": "<iframe src=\"https://romaeee.github.io/xtensions/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Xtinction",
             "description": "Save the planet from asteroids and humans"
+        },
+        {
+            "id": 17,
+            "link": "<iframe src=\"https://romaeee.github.io/Solitaire/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Solitaire",
+            "description": "Patience game with goal to arrange cards in suit order."
         }
     ]
 }
