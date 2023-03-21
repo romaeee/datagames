@@ -107,6 +107,12 @@
             "link": "<iframe src=\"https://romaeee.github.io/non_2048/\" width=\"500\" height=\"550\"></iframe>",
             "title": "non 2048",
             "description": "Slide tiles to merge matching numbers and reach 2048 tile."
+        },
+        {
+            "id": 19,
+            "link": "<iframe src=\"https://romaeee.github.io/fillthemaze/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Fill The Maze",
+            "description": "Navigate the maze and fill every square to win."
         }
     ]
 }
