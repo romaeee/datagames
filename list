@@ -50,9 +50,9 @@
         },
         {
             "id": 9,
-            "link": "<iframe src=\"https://romaeee.github.io/Thai_FlashCards/\" width=\"500\" height=\"550\"></iframe>",
-            "title": "Thai Cards",
-            "description": "Learn thai phrases"
+            "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Tester",
+            "description": "Test description"
         },
         {
             "id": 10,
