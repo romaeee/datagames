@@ -50,9 +50,9 @@
         },
         {
             "id": 9,
-            "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
-            "title": "Tester",
-            "description": "Test description"
+            "link": "<iframe src=\"https://romaeee.github.io/chess/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Chess",
+            "description": "Classic strategy board game"
         },
         {
             "id": 10,
@@ -113,6 +113,12 @@
             "link": "<iframe src=\"https://romaeee.github.io/fillthemaze/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Fill The Maze",
             "description": "Navigate the maze and fill every square to win."
+        },
+        {
+            "id": 20,
+            "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Tester",
+            "description": "Test description"
         }
     ]
 }
