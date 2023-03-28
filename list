@@ -116,6 +116,12 @@
         },
         {
             "id": 20,
+            "link": "<iframe src=\"https://romaeee.github.io/BubblePopper/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Bubble Popper",
+            "description": "Pop bubbles in this soothing and relaxing game."
+        },
+        {
+            "id": 21,
             "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Tester",
             "description": "Test description"
