@@ -121,13 +121,19 @@
             "description": "Pop bubbles in this soothing and relaxing game."
         },
         {
-            "id": 20,
+            "id": 21,
             "link": "<iframe src=\"https://romaeee.github.io/Arkanoid/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Arkanoid",
             "description": "Break bricks with a bouncing ball in this classic arcade game."
         },
         {
-            "id": 21,
+            "id": 22,
+            "link": "<iframe src=\"https://romaeee.github.io/TicTacToe/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Tic-Tac-Toe",
+            "description": "Two players, X and O, mark spaces on grid."
+        },
+        {
+            "id": 23,
             "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Tester",
             "description": "Test description"
