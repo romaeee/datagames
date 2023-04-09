@@ -146,6 +146,12 @@
         },
         {
             "id": 25,
+            "link": "<iframe src=\"https://romaeee.github.io/ColorS/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Color S",
+            "description": "Test Your Memory with Vibrant Hue Patterns!"
+        },
+        {
+            "id": 26,
             "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Tester",
             "description": "Test description"
