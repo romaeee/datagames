@@ -32,7 +32,7 @@
         },
         {
             "id": 6,
-            "link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7154963?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/mech\">Play Mech on itch.io</a></iframe>",
+            "link": "<iframe src=\"https://romaeee.github.io/Mech/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Mech",
             "description": "The game is a system of shafts and belts."
         },
