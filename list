@@ -44,7 +44,7 @@
         },
         {
             "id": 8,
-            "link": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/7167014?color=333333\" allowfullscreen=\"\" width=\"500\" height=\"550\"><a href=\"https://gulbrandr-igd.itch.io/sudoku\">Play Sudoku on itch.io</a></iframe>",
+            "link": "<iframe src=\"https://romaeee.github.io/Sudoku/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Sudoku (with AI arts)",
             "description": "Classic sudoku"
         },
