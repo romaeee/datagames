@@ -50,9 +50,9 @@
         },
         {
             "id": 9,
-            "link": "<iframe src=\"https://romaeee.github.io/Chess/\" width=\"500\" height=\"550\"></iframe>",
-            "title": "Chess",
-            "description": "Classic strategy board game"
+            "link": "<iframe src=\"https://romaeee.github.io/MemoryCards/\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Memory Cards",
+            "description": "Match identical cards hidden on a grid to test memory"
         },
         {
             "id": 10,
