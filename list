@@ -62,9 +62,9 @@
         },
         {
             "id": 11,
-            "link": "<iframe src=\"https://itch.io/embed-upload/7232969\" width=\"500\" height=\"550\"></iframe>",
-            "title": "Garbage Run - A chute 'em up",
-            "description": "Survive on one thruster in a space bin!"
+            "link": "<iframe src=\"https://itch.io/embed-upload/OfficeHassle\" width=\"500\" height=\"550\"></iframe>",
+            "title": "Office hassle",
+            "description": "ATANTION! OFFICE HASSLE! Swap and match office items to score high and win!"
         },
         {
             "id": 12,
@@ -149,12 +149,6 @@
             "link": "<iframe src=\"https://romaeee.github.io/ColorS/\" width=\"500\" height=\"550\"></iframe>",
             "title": "Color S",
             "description": "Test Your Memory with Vibrant Hue Patterns!"
-        },
-        {
-            "id": 26,
-            "link": "<iframe src=\"https://romaeee.github.io/tester/\" width=\"500\" height=\"550\"></iframe>",
-            "title": "Tester",
-            "description": "Test description"
         }
     ]
 }
